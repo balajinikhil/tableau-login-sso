@@ -1,0 +1,16 @@
+{
+  "name": "whyise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tableau_jwt_client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node tableau_jwt_client.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
