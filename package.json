@@ -1,5 +1,5 @@
 {
-  "name": "whyise",
+  "name": "tableau-sso",
   "version": "1.0.0",
   "description": "",
   "main": "tableau_jwt_client.js",
